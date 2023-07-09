@@ -6,3 +6,5 @@ n[2]=100
 print(n)
 
 print(len(n))
+n[1]=20
+print(n)
